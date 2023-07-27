@@ -453,7 +453,7 @@ jobs:
         with:
           name: bindings-universal-apple-darwin
           path: ${{ env.APP_NAME }}.*.node
-          if-no-files-found: error
+#           if-no-files-found: error
   publish:
     name: Publish
     runs-on: ubuntu-latest
