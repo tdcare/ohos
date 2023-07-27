@@ -1,6 +1,6 @@
 {
   "name": "@tdcare/ohos",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -13,6 +13,9 @@
       ]
     }
   },
+  "repository": {
+       "url":"https://github.com/tdcare/ohos"
+},
   "license": "MIT",
   "devDependencies": {
     "@napi-rs/cli": "^2.16.2",
