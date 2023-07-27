@@ -6,6 +6,7 @@
   "napi": {
     "name": "ohos",
     "triples": {
+
       "additional": [
         "aarch64-unknown-linux-musl",
         "universal-apple-darwin"
