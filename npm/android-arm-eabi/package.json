@@ -1,0 +1,18 @@
+{
+  "name": "@tdcare/ohos-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "ohos.android-arm-eabi.node",
+  "files": [
+    "ohos.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@tdcare/ohos-android-arm64",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "ohos.android-arm64.node",
+  "files": [
+    "ohos.android-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

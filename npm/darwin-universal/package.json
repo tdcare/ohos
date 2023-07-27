@@ -1,0 +1,15 @@
+{
+  "name": "@tdcare/ohos-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "ohos.darwin-universal.node",
+  "files": [
+    "ohos.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
