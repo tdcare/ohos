@@ -14,7 +14,8 @@
     }
   },
   "repository": {
-       "url":"https://github.com/tdcare/ohos"
+       "type": "git",
+       "url":"https://github.com/tdcare/ohos.git"
 },
   "license": "MIT",
   "devDependencies": {
